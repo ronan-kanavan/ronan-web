@@ -1,0 +1,197 @@
+.header {
+  text-align: center;
+  padding-top: 60px;
+}
+
+.sub-header {
+  text-align: center;
+  font-size: 24px;
+  padding: 20px;
+}
+
+.description {
+  text-align: center;
+  font-size: 20px;
+  padding: 20px;
+}
+
+.big-banner {
+  width: 100%;
+  height: 300px;
+  margin: 0;
+  object-fit: none; /* Do not scale the image */
+  object-position: center;
+}
+
+.small-banner {
+  width: 100%;
+  margin: 0;
+}
+
+.mining-card {
+  border-radius: 10px 10px 10px 10px;
+  background-color: #f5f5f5;
+  margin: 10px;
+}
+
+.mining-card-child {
+  position: relative;
+}
+
+.mining-header {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.small-banner-parent {
+  padding: 0;
+}
+
+.small-banner-bg {
+  background-color: #f5f5f5;
+}
+
+.card-parent {
+  margin: 0;
+}
+
+.margin-bottom-10 {
+  margin-bottom: 20px;
+}
+
+.card-image {
+  max-width: 300px;
+  width: 100%;
+  padding: 50px;
+  display: block;
+}
+
+.personal-icon {
+  max-width: 100px;
+  width: 100%;
+  border-radius: 50%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.card-button {
+  padding: 0;
+  width: 100%;
+  border-color: transparent;
+  /* background-color: #0277bd; */
+  background-color: grey;
+  color: white;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 0 0 10px 10px;
+}
+
+.rare {
+  color: purple;
+  border: 1px solid purple;
+  padding: 2px 7px 2px 7px;
+  border-radius: 20px;
+  display: inline;
+}
+
+.super-rare {
+  color: red;
+  border: 1px solid red;
+  padding: 2px 7px 2px 7px;
+  border-radius: 20px;
+  display: inline;
+}
+
+.free {
+  color: white;
+  background-color: #0277bd;
+  padding: 2px 7px 2px 7px;
+  border-radius: 20px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  display: inline;
+}
+
+.eth {
+  color: white;
+  background-color: #0277bd;
+  padding: 2px 7px 2px 7px;
+  border-radius: 20px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  display: inline;
+}
+
+.normal {
+  color: green;
+  border: 1px solid green;
+  padding: 2px 7px 2px 7px;
+  border-radius: 20px;
+  display: inline;
+}
+
+.margin-10 {
+  margin: 10px;
+}
+
+.margin-30 {
+  margin: 30px;
+}
+
+.padding-30 {
+  padding: 30px;
+}
+
+.ama {
+  background-color: #f5f5f5;
+}
+
+.team {
+  padding: 30px;
+}
+
+.red-header {
+  color: red;
+}
+
+.twitter-icon {
+  width: 30px;
+}
+
+.twitter-id {
+  color: #0277bd;
+  padding: 0;
+}
+
+.green-header {
+  color: green;
+}
+
+.purple-header {
+  color: purple;
+}
+
+.ama-header {
+  text-align: center;
+}
+
+.roadmap-header {
+  text-align: center;
+}
+
+.roadmap-img {
+  width: 50px;
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+}
+
+.ama-sub-header {
+  color: #0277bd;
+}
